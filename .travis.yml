@@ -12,6 +12,6 @@ deploy:
   provider: heroku
   api_key:
     secure: Z/EZf/+XC5d6Zdy/vB9K9kPgmDmqNexT6cnRF8lqd33Itc36cZ76rflsSFM0STFO4lQFoJbPB4LgJCOoxbx5Z0O/0M3NmvRvk+kFdCRPPfOR2LMtqQMG9DZJuOOD/JiD+SwLQH+B7bPnfV+VsCM8lfqBG81rX+iwtuH7/HiWF6pQmM+ql0bLM/K9RcvQoWeoj7fo9W8ypyAVG61b+bG3w8HJSbeEn2JzeySzNLyn003kuVqK3U1666D5HUf/nmHf2rxmEibaWlRjFMEMywGKQI0DWI13SKJFc4+p60/W5oSGvQD2gYgvs6A6zq0DttzaMS8rgrLoVI1N6XBHIFC65R62thGO6JgsPhtbrH7K58cjp5zaGJ0B55jOZUCE6dLXOQAlM0jQtCqj+9AbTLtAI7sna8yLPr5VTHiAAaoOTxSPlbA9H1yW/7YE1q1MUfpDObv1FccDSeka2tAxkQpIKNvGy1VH1YVh+aoJKqdzyKnHBEw/eMCZtKD6TPc5HardeyeYka2UvSI2Oq9hWsfcs6u0K90cAxQ5I2XXGC0VbGdeyhbDxvMsEMp/yzgvcjigf31vn5TmO/yGhulYvaYnfnWMBHBpn32ZpF1SCdZdw5pN9Wm35TBcUfQJfy0UaTlhPemKxu4gwvn2QpjMP79hHcb49DhTOmWKZidz9DA/Uqg=
-  app: enigmatic-shelf-62884
+  app: my-peepchat-api
   on:
     repo: PattiDevelops/peepchat-api

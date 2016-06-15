@@ -3,7 +3,7 @@ use Mix.Config
 config :peepchat, Peepchat.Endpoint,
   http: [port: {:system, "PORT"}],
   force_ssl: [rewrite_on: [:x_forwarded_proto]],
-  url: [host: "enigmatic-shelf-62884.herokuapp.com", port: 443],
+  url: [host: "my-peepchat-api.herokuapp.com", port: 443],
   secret_key_base: System.get_env("SECRET_KEY_BASE")
 
 config :peepchat, Peepchat.Repo,
